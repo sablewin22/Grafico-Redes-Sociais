@@ -10,7 +10,7 @@ st.title("📱 Crescimento de Redes Sociais — Últimos 7 dias")
 # 👇 Troque pela URL raw do seu CSV no GitHub
 # Exemplo: https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPO/main/redes_sociais_7dias.csv
 # -------------------------------------------------------
-CSV_URL = "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPO/main/redes_sociais_7dias.csv"
+CSV_URL = "https://raw.githubusercontent.com/sablewin22/Grafico-Redes-Sociais/refs/heads/main/redes_sociais_7dias.csv"
 
 @st.cache_data
 def carregar_dados(url):
